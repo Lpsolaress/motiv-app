@@ -41,5 +41,5 @@ cd frontend && npm install && npm run dev
 
 ## Author
 
-Built by [Tu Nombre](https://github.com/tuusuario)
+Built by [Luis Pedro Solares Serrano](https://github.com/Lpsolaress)
 as a portfolio project — open to work.
